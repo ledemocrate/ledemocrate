@@ -4,7 +4,7 @@
 - 💞️ faire un Bureau de Vote en Ligne
 - 📫 ledemocrate@gmail.com
 
-L'objecti de ce profil est de centraliser mes activités liées à l'étude des votes.
+L'objectif de ce profil est de centraliser mes activités liées à l'étude des votes.
 
 <!---
 ledemocrate/ledemocrate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
