@@ -1,7 +1,7 @@
 - 👋 @ledemocrate
 - 👀  Democratie direct
 - 🌱 la théorie des graphes appliqués aux votes de l'Assemblée Nationale
-- 💞️ faire un Bureau de Vote en Ligne
+- 💞️ faire un bureau de vote en ligne
 - 📫 ledemocrate@gmail.com
 
 L'objectif de ce profil est de centraliser mes activités liées à l'étude des votes.
