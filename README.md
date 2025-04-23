@@ -33,7 +33,8 @@
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ledemocrate/ledemocrate/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/ledemocrate/ledemocrate/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
