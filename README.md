@@ -1,7 +1,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>
-Née le 25 Juillet 1994 à Guebwiller.
+Née le 25 Juillet 1994 à Guebwiller.        
 Titulaire d’un Master Économétrie & Statistique, obtenu en 2018 à l’Université de Strasbourg.
         
 De formation statisticien-économètre, j'ai par mon expérience professionnelle acquis des compétences dans l'univers de la DATA et plus particulièrement celles liées au rôle de DATA ENGINEER.
@@ -9,7 +9,7 @@ De formation statisticien-économètre, j'ai par mon expérience professionnelle
 Si vous voyez ce texte, c'est probablement que je suis à la recherche d'une nouvelle expérience permettant de pratiquer au mieux ma vocation ou bien que vous recherchez un DATA ENGINEER.
 
 Mon leitmotiv ou idée directrice est la création d'un système de vote en ligne afin d'arriver à une vrai démocratie.
-Plus précisément que chaque citoyen, c'est à dire soumis à la Loi, puisse participer à la décision collective à travers le vote de la Loi, afin qu'une majorité de citoyen approuve la Loi à laquelle il sera soumis.
+Plus précisément que chaque citoyen, c'est à dire soumis à la Loi, puisse participer à la décision collective à travers le vote de la Loi, afin qu'une majorité de citoyen approuve la Loi à laquelle il sera soumis.        
 
 Merci pour l'attention portée à ma personne.
 
