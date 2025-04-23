@@ -1,43 +1,39 @@
 <div align="center">
-    <h2>🚀 About Me</h2>
+    <h2>🚀 À propos de moi</h2>
     <p>
-Née le 25 Juillet 1994 à Guebwiller.
-        Titulaire d’un Master Économétrie & Statistique, obtenu en 2018 à l’Université de Strasbourg.
+Née le 25 Juillet 1994 à Guebwiller.  
+        
+Titulaire d’un Master Économétrie & Statistique, obtenu en 2018 à l’Université de Strasbourg.
         
 De formation statisticien-économètre, j'ai par mon expérience professionnelle acquis des compétences dans l'univers de la DATA et plus particulièrement celles liées au rôle de DATA ENGINEER.
 
 Si vous voyez ce texte, c'est probablement que je suis à la recherche d'une nouvelle expérience permettant de pratiquer au mieux ma vocation ou bien que vous recherchez un DATA ENGINEER.
 
 Mon leitmotiv ou idée directrice est la création d'un système de vote en ligne afin d'arriver à une vrai démocratie.
-Plus précisément que chaque citoyen, c'est à dire soumis à la Loi, puisse participer à la décision collective à travers le vote de la Loi, afin qu'une majorité de citoyen approuve la Loi à laquelle il sera soumis.        
 
+Plus précisément que chaque citoyen, c'est à dire soumis à la Loi, puisse participer à la décision collective à travers le vote de la Loi, afin qu'une majorité de citoyen approuve la Loi à laquelle il sera soumis.        
 Merci pour l'attention portée à ma personne.
 
 Cordialement,
+
 GOLLENTZ Quentin
     </p>
 </div>
 
 <div align="center">
-    <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+    <h2 align="center" class="section-heading">🌐 Rentrer en relation</h2>
     <p>
-        To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and CV through my Portfolio. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!
+Pour entrer en contact avec moi, vous pouvez trouver mon profil professionnel et mes coordonnées sur LinkedIn. 
+N’hésitez pas à solliciter des collaborations, des opportunités ou tout simplement à échanger des idées sur les dernières nouveautés en matière de développement de logiciels et de technologie. 
+Innovons ensemble!
+PS : Mes posts et commentaires sur Linkdin n'engagent que moi
     </p>
   <div align="center" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <a href="https://antoniorodr.github.io/Antonio_portfolio/" style="text-decoration: none; display: flex;">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" height="28" alt="Portfolio logo" />
-    </a>
-    <a href="https://www.instagram.com/antonioronor/" style="text-decoration: none; display: flex;">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Instagram logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/antonioinorge/" style="text-decoration: none; display: flex;">
+    <a href="https://www.linkedin.com/in/quentingollentz/" style="text-decoration: none; display: flex;">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn logo" />
     </a>
-    <a href="https://github.com/antoniorodr" style="text-decoration: none; display: flex;">
+    <a href="https://github.com/ledemocrate" style="text-decoration: none; display: flex;">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
-    </a>
-    <a href="https://github.com/antoniorodr" style="text-decoration: none; display: flex;">
-        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fantoniorodr&label=Profile%20views&countColor=%23263759" alt="Profile views badge" />
     </a>
   </div>
 
@@ -45,7 +41,9 @@ GOLLENTZ Quentin
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+    <p>Cette section met en évidence mon activité quotidienne, mettant en valeur les dépôts sur lesquels je travaille actuellement. 
+Malheursement/Heuresement, j'ai une activité professionnelle qui m'empêche de me consacrer à plein temps dans mes divers projets.
+Chaque engagement représente des progrès ou des corrections à des projets en cours, ce qui reflète mon engagement envers l’amélioration continue et le développement collaboratif. Plongez dans les messages de commit pour avoir un aperçu de ce que j’ai fait !</p>
 <br clear="both">
 
 ![Snake animation](https://raw.githubusercontent.com/ledemocrate/ledemocrate/output/github-contribution-grid-snake-dark.svg)
