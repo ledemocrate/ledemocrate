@@ -1,8 +1,8 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>
-Née le 25 Juillet 1994 à Guebwiller.        
-Titulaire d’un Master Économétrie & Statistique, obtenu en 2018 à l’Université de Strasbourg.
+Née le 25 Juillet 1994 à Guebwiller.
+        Titulaire d’un Master Économétrie & Statistique, obtenu en 2018 à l’Université de Strasbourg.
         
 De formation statisticien-économètre, j'ai par mon expérience professionnelle acquis des compétences dans l'univers de la DATA et plus particulièrement celles liées au rôle de DATA ENGINEER.
 
