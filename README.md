@@ -1,21 +1,19 @@
 <div align="center">
     <h2>🚀 À propos de moi</h2>
     <p>
-Née le 25 Juillet 1994 à Guebwiller.  
-        
+Née le 25 Juillet 1994 à Guebwiller.<br>
 Titulaire d’un Master Économétrie & Statistique, obtenu en 2018 à l’Université de Strasbourg.
         
 De formation statisticien-économètre, j'ai par mon expérience professionnelle acquis des compétences dans l'univers de la DATA et plus particulièrement celles liées au rôle de DATA ENGINEER.
 
 Si vous voyez ce texte, c'est probablement que je suis à la recherche d'une nouvelle expérience permettant de pratiquer au mieux ma vocation ou bien que vous recherchez un DATA ENGINEER.
 
-Mon leitmotiv ou idée directrice est la création d'un système de vote en ligne afin d'arriver à une vrai démocratie.
+Mon leitmotiv ou idée directrice est la création d'un système de vote en ligne afin d'arriver à une vrai démocratie.<br>
+Plus précisément que chaque citoyen, c'est à dire soumis à la Loi, puisse participer à la décision collective à travers le vote de la Loi, afin qu'une majorité de citoyen approuve la Loi à laquelle il sera soumis.    
 
-Plus précisément que chaque citoyen, c'est à dire soumis à la Loi, puisse participer à la décision collective à travers le vote de la Loi, afin qu'une majorité de citoyen approuve la Loi à laquelle il sera soumis.        
 Merci pour l'attention portée à ma personne.
 
-Cordialement,
-
+Cordialement,<br>
 GOLLENTZ Quentin
     </p>
 </div>
@@ -23,55 +21,60 @@ GOLLENTZ Quentin
 <div align="center">
     <h2 align="center" class="section-heading">🌐 Rentrer en relation</h2>
     <p>
-Pour entrer en contact avec moi, vous pouvez trouver mon profil professionnel et mes coordonnées sur LinkedIn. 
-N’hésitez pas à solliciter des collaborations, des opportunités ou tout simplement à échanger des idées sur les dernières nouveautés en matière de développement de logiciels et de technologie. 
-Innovons ensemble!
+Pour entrer en contact avec moi, vous pouvez trouver mon profil professionnel et mes coordonnées sur LinkedIn.<br>
+
+N’hésitez pas à solliciter des collaborations, des opportunités ou tout simplement à échanger des idées sur les dernières nouveautés en matière de développement de logiciels et de technologie.<br> 
+Particulièrement si celle-ci sont relatives aux dévellopement d'un bureau de vote en ligne
+
 PS : Mes posts et commentaires sur Linkdin n'engagent que moi
     </p>
   <div align="center" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <a href="https://www.linkedin.com/in/quentingollentz/" style="text-decoration: none; display: flex;">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn logo" />
+    <a href="https://www.linkedin.com/in/quentin-gollentz-697993172/" style="text-decoration: none; display: flex;">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="28" alt="LinkedIn logo" />
     </a>
     <a href="https://github.com/ledemocrate" style="text-decoration: none; display: flex;">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://ledemocrate.github.io/quarto_blog/" style="text-decoration: none; display: flex;">
+        <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" alt="GitHub Blog" />
     </a>
   </div>
 
 </div>
 
 <div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>Cette section met en évidence mon activité quotidienne, mettant en valeur les dépôts sur lesquels je travaille actuellement. 
+  <h2>🚀 Mes commits sur Github</h2>
+    <p>Cette section met en évidence mon activité quotidienne, mettant en valeur les dépôts sur lesquels je travaille actuellement.<br>
 Malheursement/Heuresement, j'ai une activité professionnelle qui m'empêche de me consacrer à plein temps dans mes divers projets.
-Chaque engagement représente des progrès ou des corrections à des projets en cours, ce qui reflète mon engagement envers l’amélioration continue et le développement collaboratif. Plongez dans les messages de commit pour avoir un aperçu de ce que j’ai fait !</p>
+    </p>
 <br clear="both">
 
 ![Snake animation](https://raw.githubusercontent.com/ledemocrate/ledemocrate/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a versatile engineer, I have gained proficiency in Python and have a foundational understanding of HTML and CSS. I am eager to expand my skills by learning additional programming languages, such as Swift. Here are the languages I use to transform complex challenges into elegant solutions.</p>
+<h2 align="center" class="section-heading">💻 Language de programmation</h2>
+<p> En tant que Statisticien, j’ai acquis des compétences en R et Python.<br>
+    En tant que'ingénieur Data, j'ai acquis des compétences en Java et en SQL.<br>
+    En tant que passionné de Rapsberry Pi, j'ai acqui des compétences en Bash</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white=" alt="Bash_script"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"/>
 
 </div>
-<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-<p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
+<h2 align="center" class="section-heading">☁️  Technologie de Cloud Computing</h2>
+<p>Dans le domaine dynamique du Cloud Computing, j'ai décider suite à la décision de l'Assurance Maladie de faire son Data Health Hub sur Microsoft Azure de me spécialiser sur ce Cloud Provider en obtenant l'ensemeble des certifications liées au rôle de DATA ENGINEER.<br>
+Dans le cadre de mon travail, j'ai également eu à travailler sur BigQuery ainsi que sur Snowflake.<br>
+J'aimerais par la suite, obtenir des compétences pour opérer sur OVH</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515" alt="Python Anywhere"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="Google"/>
 </div>
 
-<h2 align="center" class="section-heading">🔧 Frameworks, Platforms and Libraries</h2>
+<h2 align="center" class="section-heading">🔧 Frameworks et outils</h2>
 <p>Frameworks, platforms, and libraries are integral to my development process, providing the structure and tools necessary for creating scalable and efficient applications. I have experience with various technologies, each chosen for its ability to facilitate rapid development and deliver robust functionality.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -91,8 +94,8 @@ Chaque engagement représente des progrès ou des corrections à des projets en 
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+<h2 align="center" class="section-heading"> 💻 Statistique sur Github</h2>
+<p>Jetez un coup d’œil à mes statistiques GitHub pour voir comment je jongle avec le code, le café et les collaborations! Plongez pour vérifier les jalons de mon parcours numérique!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ledemocrate&theme=github_dark" alt="Ledemocrate's GitHub Stats"/></td>
