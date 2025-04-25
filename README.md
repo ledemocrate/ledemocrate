@@ -24,7 +24,7 @@ GOLLENTZ Quentin
 Pour entrer en contact avec moi, vous pouvez trouver mon profil professionnel et mes coordonnées sur LinkedIn.<br>
 
 N’hésitez pas à solliciter des collaborations, des opportunités ou tout simplement à échanger des idées sur les dernières nouveautés en matière de développement de logiciels et de technologie.<br> 
-Particulièrement si celles-ci sont relatives au développement d'un bureau de vote en ligne
+Particulièrement si celles-ci sont relatives au développement d'un bureau de vote en ligne.<br>
 PS : Mes posts et commentaires sur Linkdin n'engagent que moi
     </p>
   <div align="center" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
