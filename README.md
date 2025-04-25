@@ -29,7 +29,7 @@ PS : Mes posts et commentaires sur Linkdin n'engagent que moi
     </p>
   <div align="center" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/quentin-gollentz-697993172/" style="text-decoration: none; display: flex;">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="28" alt="LinkedIn logo" />
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
     </a>
     <a href="https://github.com/ledemocrate" style="text-decoration: none; display: flex;">
         <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
@@ -86,7 +86,12 @@ Apache Karaf<br>
 Apache Kafka<br>
 Apache Spark<br>
 Apache Airflow<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow"/>
 
+</div>
 Dans le cadre de mes expériences professionnelles, j'ai été amené à utliser les ETL/ELT suivants : <br>
 
 Talend Open Studio<br>
