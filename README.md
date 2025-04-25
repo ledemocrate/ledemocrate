@@ -89,10 +89,6 @@ Dans le cadre de mes expériences professionnelles, j'ai été amené à utliser
 
 Talend Open Studio<br>
 Semarchy xDI<br>
-
-De façon personnelle, j'aime bien travailler sur PostgreSQL pour sa capacité à gérer les données géographiques : <br>
-
-
 </div>   
 </p>
 <div align="center">
