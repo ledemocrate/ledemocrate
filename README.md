@@ -90,8 +90,8 @@ Apache Airflow<br>
   <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow"/>
-
 </div>
+
 Dans le cadre de mes expériences professionnelles, j'ai été amené à utliser les ETL/ELT suivants : <br>
 
 Talend Open Studio<br>
