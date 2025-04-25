@@ -24,8 +24,7 @@ GOLLENTZ Quentin
 Pour entrer en contact avec moi, vous pouvez trouver mon profil professionnel et mes coordonnées sur LinkedIn.<br>
 
 N’hésitez pas à solliciter des collaborations, des opportunités ou tout simplement à échanger des idées sur les dernières nouveautés en matière de développement de logiciels et de technologie.<br> 
-Particulièrement si celle-ci sont relatives aux dévellopement d'un bureau de vote en ligne
-
+Particulièrement si celles-ci sont relatives au développement d'un bureau de vote en ligne
 PS : Mes posts et commentaires sur Linkdin n'engagent que moi
     </p>
   <div align="center" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
@@ -75,7 +74,27 @@ J'aimerais par la suite, obtenir des compétences pour opérer sur OVH</p>
 </div>
 
 <h2 align="center" class="section-heading">🔧 Frameworks et outils</h2>
-<p>Frameworks, platforms, and libraries are integral to my development process, providing the structure and tools necessary for creating scalable and efficient applications. I have experience with various technologies, each chosen for its ability to facilitate rapid development and deliver robust functionality.</p>
+<div align="center">
+<p>Je m’intéresse également à tout ce que peux faire la fondation Apache, particulièrement la suite suivante : <br>
+    
+Apache ActiveMQ<br>
+Apache Camel<br>
+Apache Cassandra<br>
+Apache Karaf<br>
+Apache Kafka<br>
+Apache Spark<br>
+Apache Airflow<br>
+
+Dans le cadre de mes expériences professionnelles, j'ai été amené à utliser les ETL/ELT suivants : <br>
+
+Talend Open Studio<br>
+Semarchy xDI<br>
+
+De façon personnelle, j'aime bien travailler sur PostgreSQL pour sa capacité à gérer les données géographiques : <br>
+
+
+</div>   
+</p>
 <div align="center">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
