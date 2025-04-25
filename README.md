@@ -38,7 +38,6 @@ PS : Mes posts et commentaires sur Linkdin n'engagent que moi
         <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" alt="GitHub Blog" />
     </a>
   </div>
-
 </div>
 
 <div align="center">
@@ -91,9 +90,9 @@ Apache Airflow<br>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow"/>
 </div>
-
+<br>
 Dans le cadre de mes expériences professionnelles, j'ai été amené à utliser les ETL/ELT suivants : <br>
-
+<br>
 Talend Open Studio<br>
 Semarchy xDI<br>
 </div>   
