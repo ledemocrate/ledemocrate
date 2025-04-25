@@ -52,6 +52,7 @@ Malheursement/Heuresement, j'ai une activité professionnelle qui m'empêche de 
 </div>
 
 <h2 align="center" class="section-heading">💻 Language de programmation</h2>
+<div align="center">
 <p> En tant que Statisticien, j’ai acquis des compétences en R et Python.<br>
     En tant que'ingénieur Data, j'ai acquis des compétences en Java et en SQL.<br>
     En tant que passionné de Rapsberry Pi, j'ai acqui des compétences en Bash</p>
@@ -63,9 +64,10 @@ Malheursement/Heuresement, j'ai une activité professionnelle qui m'empêche de 
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"/>
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"/>
   <img src="https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff" alt="Terradata"/>
-
+</div>
 </div>
 <h2 align="center" class="section-heading">☁️  Technologie de Cloud Computing</h2>
+<div align="center">
 <p>Dans le domaine dynamique du Cloud Computing, j'ai décider suite à la décision de l'Assurance Maladie de faire son Data Health Hub sur Microsoft Azure de me spécialiser sur ce Cloud Provider en obtenant l'ensemeble des certifications liées au rôle de DATA ENGINEER.<br>
 Dans le cadre de mon travail, j'ai également eu à travailler sur BigQuery ainsi que sur Snowflake.<br>
 J'aimerais par la suite, obtenir des compétences pour opérer sur OVH</p>
@@ -73,7 +75,7 @@ J'aimerais par la suite, obtenir des compétences pour opérer sur OVH</p>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="Google"/>
 </div>
-
+</div>
 <h2 align="center" class="section-heading">🔧 Frameworks et outils</h2>
 <div align="center">
 <p>Je m’intéresse également à tout ce que peux faire la fondation Apache, particulièrement la suite suivante : <br>
