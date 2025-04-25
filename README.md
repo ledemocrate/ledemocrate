@@ -62,7 +62,7 @@ Malheursement/Heuresement, j'ai une activité professionnelle qui m'empêche de 
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white=" alt="Bash_script"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"/>
-
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"/>
 </div>
 <h2 align="center" class="section-heading">☁️  Technologie de Cloud Computing</h2>
 <p>Dans le domaine dynamique du Cloud Computing, j'ai décider suite à la décision de l'Assurance Maladie de faire son Data Health Hub sur Microsoft Azure de me spécialiser sur ce Cloud Provider en obtenant l'ensemeble des certifications liées au rôle de DATA ENGINEER.<br>
